@@ -9,4 +9,4 @@
 # django-admin startapp pybo
 # mysite > urls.py > import & path(adress)
 
-#P.44까지 진행됨
+#P.60까지 진행됨
